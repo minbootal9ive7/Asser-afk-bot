@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "magdaalnsha-Y1xz.aternos.me",
-    "port": 44504,
+    "ip": "magdaalnsha.aternos.me",
+    "port": ,
     "version": "1.19.2",
     "try-creative": false
   },
