@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "magdaalnsha.aternos.me",
-    "port": ,
+    "port": 22950,
     "version": "1.19.2",
     "try-creative": false
   },
