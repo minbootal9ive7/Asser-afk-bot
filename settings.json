@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "jongk.aternos.me",
-    "port": 15425,
-    "version": "1.19.2",
-    "try-creative": false
+    "ip": "asser123a.aternos.me",
+    "port": ,
+    "version": "1.16.5",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 100,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm a regular player Afk",
+        "Subscribe to Asser",
         "I like to play Minecraft!"
       ]
     },
