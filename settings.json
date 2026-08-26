@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "asser123a.aternos.me",
-    "port": 1234,
+    "ip": "asser123a-rjSw.aternos.me",
+    "port": 42797,
     "version": "1.16.5",
     "try-creative": true
   },
