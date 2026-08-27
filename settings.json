@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "asser123a-rjSw.aternos.me",
-    "port": 42797,
+    "ip": "survivl-hardasser.aternos.me",
+    "port": 23199,
     "version": "1.16.5",
     "try-creative": true
   },
